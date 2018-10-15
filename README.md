@@ -1,5 +1,4 @@
 # Form_Recognition
-# Form_Recognition
 
 I have done the task of identifying the BOXES and identifying CHECKBOXEs using opencv in python 
 
